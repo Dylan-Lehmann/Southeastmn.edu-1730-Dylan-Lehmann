@@ -78,7 +78,7 @@
             // 
             // textBoxDiscountamount
             // 
-            textBoxDiscountamount.Location = new Point(208, 126);
+            textBoxDiscountamount.Location = new Point(208, 127);
             textBoxDiscountamount.Name = "textBoxDiscountamount";
             textBoxDiscountamount.ReadOnly = true;
             textBoxDiscountamount.Size = new Size(136, 27);
