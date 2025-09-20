@@ -1,6 +1,4 @@
-using Microsoft.VisualBasic.ApplicationServices;
-
-namespace ex1c_food_truck
+namespace ex1d
 {
     internal static class Program
     {
@@ -13,7 +11,7 @@ namespace ex1c_food_truck
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Food_Truck());
+            Application.Run(new Currency());
         }
     }
 }
