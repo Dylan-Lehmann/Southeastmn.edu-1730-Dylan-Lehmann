@@ -94,7 +94,6 @@
             label3.Size = new Size(169, 28);
             label3.TabIndex = 4;
             label3.Text = "Discount Amount:";
-            // 
             // textBoxDiscountpercent
             // 
             textBoxDiscountpercent.Location = new Point(208, 80);
