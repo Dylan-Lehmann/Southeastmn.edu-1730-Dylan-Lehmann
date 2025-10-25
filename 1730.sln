@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 2c", "Ex 2c\Ex 2c.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 2D", "Ex 2D\Ex 2D.csproj", "{A6A9984E-B64E-42EA-9462-ECF0F1465951}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 2E Boolean Calcs", "Ex 2E\Ex 2E Boolean Calcs.csproj", "{3E48BF73-01EC-46DD-BD35-E1F62FE8F228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 2E Boolean CalcsTests", "Ex 2E Boolean CalcsTests\Ex 2E Boolean CalcsTests.csproj", "{C30FBF5A-8878-4E4B-BF3F-63813F41BAF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{A6A9984E-B64E-42EA-9462-ECF0F1465951}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6A9984E-B64E-42EA-9462-ECF0F1465951}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6A9984E-B64E-42EA-9462-ECF0F1465951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E48BF73-01EC-46DD-BD35-E1F62FE8F228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E48BF73-01EC-46DD-BD35-E1F62FE8F228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E48BF73-01EC-46DD-BD35-E1F62FE8F228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E48BF73-01EC-46DD-BD35-E1F62FE8F228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30FBF5A-8878-4E4B-BF3F-63813F41BAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30FBF5A-8878-4E4B-BF3F-63813F41BAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30FBF5A-8878-4E4B-BF3F-63813F41BAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30FBF5A-8878-4E4B-BF3F-63813F41BAF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
