@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 2E Boolean Calcs", "Ex 2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 2E Boolean CalcsTests", "Ex 2E Boolean CalcsTests\Ex 2E Boolean CalcsTests.csproj", "{C30FBF5A-8878-4E4B-BF3F-63813F41BAF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex-3A Student Grade Calculator", "Ex-3A Student Grade Calculator\Ex-3A Student Grade Calculator.csproj", "{3BACDE13-D3F4-4C55-96BF-7770F7724F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex-3A Student Grade CalculatorTests", "Ex-3A Student Grade CalculatorTests\Ex-3A Student Grade CalculatorTests.csproj", "{39688039-632B-446E-8A41-54F3D0F8B1EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{C30FBF5A-8878-4E4B-BF3F-63813F41BAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C30FBF5A-8878-4E4B-BF3F-63813F41BAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C30FBF5A-8878-4E4B-BF3F-63813F41BAF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BACDE13-D3F4-4C55-96BF-7770F7724F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BACDE13-D3F4-4C55-96BF-7770F7724F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BACDE13-D3F4-4C55-96BF-7770F7724F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BACDE13-D3F4-4C55-96BF-7770F7724F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39688039-632B-446E-8A41-54F3D0F8B1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39688039-632B-446E-8A41-54F3D0F8B1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39688039-632B-446E-8A41-54F3D0F8B1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39688039-632B-446E-8A41-54F3D0F8B1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
