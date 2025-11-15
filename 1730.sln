@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex-3A Student Grade Calcula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex-3A Student Grade CalculatorTests", "Ex-3A Student Grade CalculatorTests\Ex-3A Student Grade CalculatorTests.csproj", "{39688039-632B-446E-8A41-54F3D0F8B1EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 3B", "Ex 3B\Ex 3B.csproj", "{0D4C03CF-93D1-4216-A518-3F5E2A930C80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{39688039-632B-446E-8A41-54F3D0F8B1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39688039-632B-446E-8A41-54F3D0F8B1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39688039-632B-446E-8A41-54F3D0F8B1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4C03CF-93D1-4216-A518-3F5E2A930C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4C03CF-93D1-4216-A518-3F5E2A930C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4C03CF-93D1-4216-A518-3F5E2A930C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4C03CF-93D1-4216-A518-3F5E2A930C80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

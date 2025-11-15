@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Age Calculator</h1>
+   <p>Today's date is @Model.TodayDate.ToLongDateString()</p>
+
+@if (Model.User.Age != null)
+{
+      <div class="alert alert-primary">
+    <h4>Hello @Model.User.Name! Today you are @Model.User.Age years old</h4>
+    </div>
+}
+
+<h2> User Info </h2>
+
+
+<form method="post">
+    <div class="mb-3"> 
+         <label class="form-label" for="name">Enter your Name:</label>
+        <input type="string" id="name" asp-for="User.Name" required />
+    </div>
+    <div class="mb-3">
+       <label class="form-label" for="birthdate">Enter your birth date:</label>
+       <input type="date" id="birthdate" asp-for="User.BirthDate" required/>
+       </div>
+    <div class="mb-3"> 
+
+    
+<button type="submit" class="btn btn-primary"> Calculate Age</button>
+     </div>
+   </form>
+  
