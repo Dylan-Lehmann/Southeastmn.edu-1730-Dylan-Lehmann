@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex-3A Student Grade Calcula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 3B", "Ex 3B\Ex 3B.csproj", "{0D4C03CF-93D1-4216-A518-3F5E2A930C80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 3C  Product maintenence", "Ex 3C  Product maintenence\Ex 3C  Product maintenence.csproj", "{CCF92268-2DC6-4D9C-8A02-6EC735DD1633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 3C  Product maintenenceTests", "Ex 3C  Product maintenenceTests\Ex 3C  Product maintenenceTests.csproj", "{773917C7-E21C-4E27-9960-BA20FCE5EF86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{0D4C03CF-93D1-4216-A518-3F5E2A930C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D4C03CF-93D1-4216-A518-3F5E2A930C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D4C03CF-93D1-4216-A518-3F5E2A930C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF92268-2DC6-4D9C-8A02-6EC735DD1633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF92268-2DC6-4D9C-8A02-6EC735DD1633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF92268-2DC6-4D9C-8A02-6EC735DD1633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF92268-2DC6-4D9C-8A02-6EC735DD1633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773917C7-E21C-4E27-9960-BA20FCE5EF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773917C7-E21C-4E27-9960-BA20FCE5EF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773917C7-E21C-4E27-9960-BA20FCE5EF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773917C7-E21C-4E27-9960-BA20FCE5EF86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
