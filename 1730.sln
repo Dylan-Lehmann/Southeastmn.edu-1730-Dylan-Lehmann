@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 3C  Product maintenence"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 3C  Product maintenenceTests", "Ex 3C  Product maintenenceTests\Ex 3C  Product maintenenceTests.csproj", "{773917C7-E21C-4E27-9960-BA20FCE5EF86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 3D New food truck", "Ex 3D New food truck\Ex 3D New food truck.csproj", "{44108A87-8CB8-4BBF-A6D2-5410BF971D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 3D New food truckTests", "Ex 3D New food truckTests\Ex 3D New food truckTests.csproj", "{4175EB3B-99A0-4B27-9730-7101C57AFECC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{773917C7-E21C-4E27-9960-BA20FCE5EF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{773917C7-E21C-4E27-9960-BA20FCE5EF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{773917C7-E21C-4E27-9960-BA20FCE5EF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44108A87-8CB8-4BBF-A6D2-5410BF971D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44108A87-8CB8-4BBF-A6D2-5410BF971D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44108A87-8CB8-4BBF-A6D2-5410BF971D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44108A87-8CB8-4BBF-A6D2-5410BF971D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4175EB3B-99A0-4B27-9730-7101C57AFECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4175EB3B-99A0-4B27-9730-7101C57AFECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4175EB3B-99A0-4B27-9730-7101C57AFECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4175EB3B-99A0-4B27-9730-7101C57AFECC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
