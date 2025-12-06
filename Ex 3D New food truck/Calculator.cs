@@ -8,9 +8,9 @@ namespace Ex_3D_New_food_truck
 {
     public class Calculator
     {
-        public decimal HotDogCost = 4;
-        public decimal HamburgerCost = 5;
-        public decimal TaxRate = Convert.ToDecimal(0.0687);
+       decimal HotDogCost = 4;
+        decimal HamburgerCost = 5;
+        decimal TaxRate = Convert.ToDecimal(0.0687);
         
 
         public decimal HotdogSubtotal(int Hotdogs)
